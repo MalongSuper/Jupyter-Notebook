@@ -1,0 +1,16 @@
+digraph {
+	node [shape=ellipse]
+	4443592400 [label="Outlook
+(IG=0.723)"]
+	4444030880 [label="Leaf: 0"]
+	4443592400 -> 4444030880 [label="Outlook=0"]
+	4444031168 [label="Leaf: 1"]
+	4443592400 -> 4444031168 [label="Outlook=1"]
+	4443964816 [label="Wind
+(IG=0.918)"]
+	4443592400 -> 4443964816 [label="Outlook=2"]
+	4444031456 [label="Leaf: 1"]
+	4443964816 -> 4444031456 [label="Wind=0"]
+	4444031024 [label="Leaf: 0"]
+	4443964816 -> 4444031024 [label="Wind=1"]
+}
