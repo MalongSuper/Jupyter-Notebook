@@ -1,6 +1,6 @@
 # Code.py
 import pandas as pd
-import DecisionTrees as dt
+import decision_trees as dt
 
 def main():
     data = {
