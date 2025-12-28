@@ -3,6 +3,9 @@
 # Jupyter Notebook
 Labs, Projects, and Libraries with Jupyter Book for explanation, and source code
 
+# Google Colab
+https://colab.research.google.com/
+
 # Course
 
 ## Machine Learning Projects with Jupyter Notebook
