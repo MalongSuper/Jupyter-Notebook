@@ -16,17 +16,17 @@ https://dune-web-e44.notion.site/Machine-Learning-Projects-with-Jupyter-Notebook
 
 https://numpy.org
 
-https://www.notion.so/Python-Library-NumPy-272622d6055680bea96ce02fbf4ea79d?source=copy_link
+[https://www.notion.so/Python-Library-NumPy-272622d6055680bea96ce02fbf4ea79d?source=copy_link](https://www.notion.so/Python-Library-NumPy-32e622d605568087b9c6ecb13e52afbd?source=copy_link)
 
 ## Python: The Pandas Library
 
 https://pandas.pydata.org
 
-https://www.notion.so/Python-Library-Pandas-265622d6055680c693ffd2aeeacd9220?source=copy_link
+[https://www.notion.so/Python-Library-Pandas-265622d6055680c693ffd2aeeacd9220?source=copy_link](https://www.notion.so/Python-Library-Pandas-32d622d6055680d08500fb227040ef58?source=copy_link)
 
 ## Python: The Seaborn Library
 
 https://seaborn.pydata.org
 
-https://www.notion.so/Python-Library-Seaborn-265622d60556800ca7bbc4022bd94832?source=copy_link
+[https://www.notion.so/Python-Library-Seaborn-265622d60556800ca7bbc4022bd94832?source=copy_link](https://www.notion.so/Python-Library-Seaborn-32e622d60556803f8e26e55e5873dffe?source=copy_link)
 
